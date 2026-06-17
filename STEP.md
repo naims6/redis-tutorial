@@ -7,9 +7,10 @@
 ## SET/GET/TTL
 
 ## Data Types
- * String
- * Hash (objects)
- * List (arrays)
- * Set (unique values)
 
-## NEXT ->
+- String --> otp
+- Hash (objects) --> user profile, caching
+- List (arrays) --> Notifaction, Job Queue
+- Set (unique values) --> user roles, tags
+
+## NEXT -> Redis caching, Real world Example, Message Queue, BULLMQ
