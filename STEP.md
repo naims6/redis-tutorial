@@ -2,7 +2,7 @@
 
 ## Why Redis
 
-## Install Redis
+## Setup Redis
 
 ## SET/GET/TTL
 
